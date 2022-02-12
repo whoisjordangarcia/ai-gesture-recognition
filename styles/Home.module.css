@@ -22,3 +22,13 @@
   width: 640;
   height: 480;
 }
+
+.emoji {
+  position: absolute;
+  margin: 0 auto;
+  bottom: 500px;
+  left: 600px;
+  right: 0;
+  height: 100px;
+  z-index: 20;
+}
